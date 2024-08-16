@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Agencia de <code>Marketing</code> Pengrafic.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://pengrafic.com"
           target="_blank"
           rel="noopener noreferrer"
         >
